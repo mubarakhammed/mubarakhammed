@@ -1,19 +1,9 @@
 # Hi 👋, I'm Mubarak Hammed  
 
-🚀 Software Engineer | 🦀 Rust Enthusiast | Mobile App | ☁️ Backend & Cloud Systems  
+Software Engineer | 🦀 Rust Enthusiast | Mobile App | ☁️ Backend & Cloud Systems  
 
 I build scalable APIs, mobile apps, and open-source projects that solve real problems.  
 Currently focused on **Rust, distributed systems, AI integrations, mobile app development with Flutter, and Java (Spring Boot) for backend systems**.  
-
-
-## 💡 About Me  
-
-- 🔭 I’m currently working on: Different  things 
-- 🌱 Learning and Using: **Advanced Rust, Axum, and systems design**  
-- 📱 Building mobile apps with **Flutter**  
-- ☕ Developing enterprise backends with **Java (Spring Boot)**  
-- 👯 Looking to collaborate on: **open-source Rust backend projects, developer tools, and fintech solutions**  
-- 💬 Ask me about: **Rust, backend design, APIs, PostgreSQL, Flutter, and Spring Boot**  
 
 ## 🛠 Tech Stack  
 
